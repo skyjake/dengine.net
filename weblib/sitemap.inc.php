@@ -107,12 +107,12 @@ function generate_sitemap()
         </li>
     </ul>
     <div id='credits'>
-        Doomsday Engine is <a href='https://github.com/skyjake/Doomsday-Engine.git'>open 
+        <a rel='me' href='https://skyjake.fi/@doomsday'>Doomsday Engine</a> is <a href='https://github.com/skyjake/Doomsday-Engine.git'>open 
         source software</a> and is distributed under 
         the <a href='http://www.gnu.org/licenses/gpl.html'>GNU General Public License</a> (applications) and <a href='http://www.gnu.org/licenses/lgpl.html'>LGPL</a> (core libraries).
         Assets from the original games remain under their original copyright. 
         Doomsday logo created by Daniel Swanson.
-        <a href='$site_root'>dengine.net</a> website design by Jaakko Ker&auml;nen &copy; 2017. 
+        <a href='$site_root'>dengine.net</a> website design by <a rel='me' href='https://skyjake.fi/@jk'>Jaakko Ker&auml;nen</a> &copy; 2017. 
         <p><a href='http://dengine.net/donate'>Donate to support the project</a></p>
     </div>
 </div>");
