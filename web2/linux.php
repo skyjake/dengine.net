@@ -36,7 +36,7 @@ generate_page_header($page_title);
         <h1>Other Builds</h1>
         <p>Binary packages are available for some Linux distributions. You can also <a href="/manual/devel/compile">compile manually from source</a> (requires CMake 3.1 and Qt 5).</p>
 
-        <h2>Flatpak</h2>
+        <h2 id="flatpak">Flatpak</h2>
         <p><a href="http://files.dengine.net/doomsday-unstable.flatpakref">Unstable builds (files.dengine.net/repo)</a></p>
         <p>For more information, see the <a href="https://flatpak.org">flatpak.org website</a>.</p>
 
