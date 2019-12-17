@@ -13,10 +13,15 @@ body {
     margin: 0;
 }
 
-.websymbol {
+.websymbol, .websymbol-logo {
     font-family: "WebSymbolsRegular";
     font-weight: normal;
     font-style: normal;
+}
+
+.websymbol-logo {
+    display: inline-block;
+    width: 1.5em;
 }
 
 #page-title {

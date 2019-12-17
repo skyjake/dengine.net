@@ -137,19 +137,19 @@ function generate_sidebar()
     <div class='partition'>
     <div class='heading'>Community</div>
     <ul>
-        <li><a href='/talk'>Forums</a></li>
+        <li><a href='https://talk.dengine.net/'>Forums</a></li>
         <li><a href='/support'>Tech support</a></li>
-        <li><a href='https://manual.dengine.net/guide/other_ports'>Other ports</a></li>            
+        <li><a href='http://facebook.com/doomsday.engine'><span class='websymbol-logo'>f</span>Facebook</a></li>
         <li><a href='https://doomwiki.org/wiki/Entryway' title='DoomWiki.org'>Doom Wiki</a></li>
-        <li><a href='http://facebook.com/doomsday.engine'><span class='websymbol'>f</span> Facebook</a></li>
     </ul>
     <div class='heading'>Development</div>
     <ul>
-        <li><a href='https://github.com/skyjake/Doomsday-Engine.git'><span class='websymbol'>S</span> GitHub</a></li>
-        <li><a href='https://tracker.dengine.net/projects/deng'>Bug Tracker</a></li>
-        <li><a href='https://tracker.dengine.net/projects/deng/roadmap'>Roadmap</a></li>
-        <li><a href='recent_posts'>Blog</a></li>
-        <li><a href='http://twitter.com/@dengteam'><span class='websymbol'>t</span> @dengteam</a></li>
+        <li><a href='https://github.com/skyjake/Doomsday-Engine.git'><span class='websymbol-logo'>S</span>GitHub</a></li>
+        <li><a href='https://tracker.dengine.net/projects/deng'><span class='websymbol-logo'>W</span>Bug Tracker</a></li>
+        <li><a href='https://tracker.dengine.net/projects/deng/roadmap'><span class='websymbol-logo'>q</span>Roadmap</a></li>
+        <li><a href='recent_posts'><span class='websymbol-logo'>R</span>Blog</a></li>
+        <li><a href='https://skyjake.fi/@doomsday'><span class='websymbol-logo'>e</span>Status</a></li>
+        <li><a href='http://twitter.com/@dengteam'><span class='websymbol-logo'>t</span>@dengteam</a></li>
     </ul>
     <div class='heading'><a href='donate' title='Donate to support the Doomsday Engine Project'>Donate &#9825;</a></div>
 </div></div>");
