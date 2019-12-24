@@ -37,7 +37,10 @@ generate_page_header($page_title);
         <p>Binary packages are available for some Linux distributions. You can also <a href="/manual/devel/compile">compile manually from source</a> (requires CMake 3.1 and Qt 5).</p>
 
         <h2 id="flatpak">Flatpak</h2>
-        <p><a href="http://files.dengine.net/doomsday-unstable.flatpakref">Unstable builds (files.dengine.net/repo)</a></p>
+        <ul>
+            <li><a href="https://flathub.org/apps/details/net.dengine.Doomsday">Stable releases on Flathub</a>
+            <li><a href="http://files.dengine.net/doomsday-unstable.flatpakref">Latest unstable builds (.flatpakref)</a>
+        </ul>
         <p>For more information, see the <a href="https://flatpak.org">flatpak.org website</a>.</p>
 
         <h2><img src="/images/ubuntu.png" alt="Ubuntu" class="distro-icon">Ubuntu</h2>
