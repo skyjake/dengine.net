@@ -113,7 +113,7 @@ function remove_build($build)
 
 function purge_old_builds()
 {
-    $expire_ts = time() - 4 * 7 * 24 * 60 * 60;
+    $expire_ts = time() - 3 * 7 * 24 * 60 * 60;
 
     // If there is a small number of recent builds, don't purge at all.
     $db = db_open();        
